@@ -1,0 +1,6 @@
+Sync jb codeaurora source on aosp_jb folder. You will need gcc 4.6
+
+. export_arm.sh
+make -j8 menuconfig
+make -j8
+
